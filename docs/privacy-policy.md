@@ -62,13 +62,7 @@ If you turn on **reminder notifications**, scheduling is handled using the **ope
 
 ---
 
-## 6. Children
-
-The app is **not directed at children under 13** (or the minimum age required in your region). Do not use the app if you are below that age, or ensure a parent or guardian supervises use as required by local law.
-
----
-
-## 7. International users and your rights
+## 6. International users and your rights
 
 Depending on where you live (for example the **UK** or **EEA**), you may have rights to access, correct, delete, or restrict certain processing of personal data held by **us** (for example if you email us with a support request that identifies you).
 
@@ -76,6 +70,6 @@ Processors such as **Apple**, **Google**, and **RevenueCat** are primarily respo
 
 ---
 
-## 8. Changes
+## 7. Changes
 
 We may update this policy from time to time. The version published on this page will be updated when we do. Continued use of the app after changes means you accept the updated policy, unless applicable law requires otherwise.

@@ -23,8 +23,6 @@ Carpe Diem is a **local-first** productivity app for organising wishes and relat
 
 You may use the app only where lawful and only for **personal, non-commercial** purposes unless we agree otherwise in writing. You must not misuse the app (for example by attempting to break security, overload services, or use automated means to extract data in breach of store rules or applicable law).
 
-**Age:** The app is not intended for users under **13** (or the minimum digital-consent age in your country). If you are younger, you must not use the app, or you must have permission from a parent or guardian as required by law.
-
 ---
 
 ## 3. Subscriptions and payments
