@@ -5,11 +5,9 @@ title: Privacy Policy
 
 # Carpe Diem — Privacy Policy
 
-**Last updated:** [DATE — e.g. 9 May 2026]
+**Operator:** Benjamin Herbert-During (“we”, “us”).
 
-**Operator:** [YOUR LEGAL NAME OR BUSINESS NAME] (“we”, “us”).
-
-**Contact:** [YOUR CONTACT EMAIL]
+**Contact:** [support@getcarpediem.app](mailto:support@getcarpediem.app)
 
 This policy describes how Carpe Diem (“the app”) handles information when you use it on your device. By using the app, you agree to this policy alongside the store terms that apply to you (Apple App Store or Google Play).
 
@@ -80,4 +78,4 @@ Processors such as **Apple**, **Google**, and **RevenueCat** are primarily respo
 
 ## 8. Changes
 
-We may update this policy from time to time. The **“Last updated”** date at the top will change when we do. Continued use of the app after changes means you accept the updated policy, unless applicable law requires otherwise.
+We may update this policy from time to time. The version published on this page will be updated when we do. Continued use of the app after changes means you accept the updated policy, unless applicable law requires otherwise.

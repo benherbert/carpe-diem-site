@@ -5,11 +5,9 @@ title: Terms of Use
 
 # Carpe Diem — Terms of Use
 
-**Last updated:** [DATE — e.g. 9 May 2026]
+**Operator:** Benjamin Herbert-During (“we”, “us”).
 
-**Operator:** [YOUR LEGAL NAME OR BUSINESS NAME] (“we”, “us”).
-
-**Contact:** [YOUR CONTACT EMAIL]
+**Contact:** [support@getcarpediem.app](mailto:support@getcarpediem.app)
 
 By downloading, installing, or using Carpe Diem (“the app”), you agree to these Terms of Use. If you do not agree, do not use the app.
 
@@ -96,18 +94,18 @@ You may stop using the app at any time by uninstalling it. We may stop providing
 
 ## 10. Changes to these terms
 
-We may update these terms. We will update the **“Last updated”** date above. Material changes may, where appropriate, be communicated through the app or store listing. Your continued use after changes constitutes acceptance unless applicable law requires a different process.
+We may update these terms. The version published on this page will be updated when we do. Material changes may, where appropriate, be communicated through the app or store listing. Your continued use after changes constitutes acceptance unless applicable law requires a different process.
 
 ---
 
 ## 11. Governing law
 
-These terms are governed by the laws of **[YOUR JURISDICTION — e.g. England and Wales]**, excluding conflict-of-law rules that might apply another jurisdiction’s laws, **except** where mandatory consumer protections in **your country of residence** give you non-waivable rights.
+These terms are governed by the laws of **England and Wales**, excluding conflict-of-law rules that might apply another jurisdiction’s laws, **except** where mandatory consumer protections in **your country of residence** give you non-waivable rights.
 
-Courts in **[YOUR JURISDICTION / venue]** have non-exclusive jurisdiction, subject to mandatory consumer rules where you live.
+The courts of **England and Wales** have non-exclusive jurisdiction, subject to mandatory consumer rules where you live.
 
 ---
 
 ## 12. Contact
 
-Questions about these terms: **[YOUR CONTACT EMAIL]**
+Questions about these terms: [support@getcarpediem.app](mailto:support@getcarpediem.app)
