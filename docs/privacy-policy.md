@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+---
+
 # Carpe Diem — Privacy Policy
 
 **Last updated:** [DATE — e.g. 9 May 2026]

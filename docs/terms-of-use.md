@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms of Use
+---
+
 # Carpe Diem — Terms of Use
 
 **Last updated:** [DATE — e.g. 9 May 2026]
