@@ -3,9 +3,9 @@ layout: page
 title: Support
 ---
 
-# Carpe Diem — Support
+# Carpe Diem - Support
 
-We’re glad you’re here. If something’s unclear or feels broken, reach out — we read every message we can reliably deliver.
+We’re glad you’re here. If something’s unclear or feels broken, reach out - we read every message we can reliably deliver.
 
 ---
 
@@ -31,10 +31,10 @@ These steps fix a surprising number of issues:
 
 | Topic                                      | Things to try                                                                                                                                                                                                                |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| App won’t open or looks empty after update | Fully quit the app, restart the phone, reopen. If problems persist after an OS upgrade, reinstall the app (you may rely on device backup behaviour for local data — see privacy policy).                                     |
-| Wish or pocket “missing”                   | Check you’re filtering the **right pocket** or **All wishes** view. Confirm you haven’t archived or moved items between pockets unintentionally.                                                                             |
-| Maps / places                              | Verify **Location** permission for Carpe Diem in system settings when using “my location” or place features. Place search relies on Google; poor connectivity affects results.                                               |
-| Subscriptions (**Carpe Diem&nbsp;Pro**)    | Confirm you’re signed into the correct **Apple** or **Google** account used for purchase. Subscription state is synced via the stores and our subscription partner — restores are handled through the usual store workflows. |
+| App won’t open or looks empty after update | Fully quit the app, restart the phone, reopen. If problems persist after an OS upgrade, reinstall the app (you may rely on device backup behaviour for local data - see privacy policy).                                     |
+| Wish or pocket "missing"                   | Check you’re filtering the **right pocket** or **All wishes** view. Confirm you haven’t archived or moved items between pockets unintentionally.                                                                             |
+| Maps / places                              | Verify **Location** permission for Carpe Diem in system settings when using "my location" or place features. Place search relies on Google; poor connectivity affects results.                                               |
+| Subscriptions (**Carpe Diem&nbsp;Pro**)    | Confirm you’re signed into the correct **Apple** or **Google** account used for purchase. Subscription state is synced via the stores and our subscription partner - restores are handled through the usual store workflows. |
 
 ---
 

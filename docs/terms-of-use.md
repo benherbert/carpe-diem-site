@@ -3,19 +3,19 @@ layout: page
 title: Terms of Use
 ---
 
-# Carpe Diem — Terms of Use
+# Carpe Diem - Terms of Use
 
-**Operator:** Benjamin Herbert-During (“we”, “us”).
+**Operator:** Benjamin Herbert-During ("we", "us").
 
 **Contact:** [support@getcarpediem.app](mailto:support@getcarpediem.app)
 
-By downloading, installing, or using Carpe Diem (“the app”), you agree to these Terms of Use. If you do not agree, do not use the app.
+By downloading, installing, or using Carpe Diem ("the app"), you agree to these Terms of Use. If you do not agree, do not use the app.
 
 ---
 
 ## 1. The service
 
-Carpe Diem is a **local-first** productivity app for organising wishes and related planning information on your device. Features may include pockets, filters, maps, place search (where available), and optional subscriptions (“**Carpe Diem Pro**” or similar). We may change, limit, or discontinue features as we improve the app.
+Carpe Diem is a **local-first** productivity app for organising wishes and related planning information on your device. Features may include pockets, filters, maps, place search (where available), and optional subscriptions ("**Carpe Diem Pro**" or similar). We may change, limit, or discontinue features as we improve the app.
 
 ---
 
@@ -54,7 +54,7 @@ You retain rights to content **you** create in the app. You grant us no licence 
 
 ## 6. Disclaimers
 
-The app is provided **“as is”** and **“as available”**. To the **fullest extent permitted by law**, we disclaim all **warranties**, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+The app is provided **"as is"** and **"as available"**. To the **fullest extent permitted by law**, we disclaim all **warranties**, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 We do not warrant that the app will be **uninterrupted**, **error-free**, or free of harmful components. You use the app **at your own risk**.
 

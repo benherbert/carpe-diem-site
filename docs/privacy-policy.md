@@ -3,13 +3,13 @@ layout: page
 title: Privacy Policy
 ---
 
-# Carpe Diem — Privacy Policy
+# Carpe Diem - Privacy Policy
 
-**Operator:** Benjamin Herbert-During (“we”, “us”).
+**Operator:** Benjamin Herbert-During ("we", "us").
 
 **Contact:** [support@getcarpediem.app](mailto:support@getcarpediem.app)
 
-This policy describes how Carpe Diem (“the app”) handles information when you use it on your device. By using the app, you agree to this policy alongside the store terms that apply to you (Apple App Store or Google Play).
+This policy describes how Carpe Diem ("the app") handles information when you use it on your device. By using the app, you agree to this policy alongside the store terms that apply to you (Apple App Store or Google Play).
 
 ---
 
