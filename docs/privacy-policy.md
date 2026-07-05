@@ -9,7 +9,9 @@ title: Privacy Policy
 
 **Contact:** [support@getcarpediem.app](mailto:support@getcarpediem.app)
 
-This policy describes how Carpe Diem ("the app") handles information when you use it on your device. By using the app, you agree to this policy alongside the store terms that apply to you (Apple App Store or Google Play).
+**Last updated:** 5 July 2026
+
+This policy describes how Carpe Diem ("the app") handles information when you use it on your device. By using the app, you agree to this policy alongside our [Terms of Use](terms-of-use.md) and the store terms that apply to you (Apple App Store or Google Play).
 
 ---
 
@@ -72,4 +74,6 @@ Processors such as **Apple**, **Google**, and **RevenueCat** are primarily respo
 
 ## 7. Changes
 
-We may update this policy from time to time. The version published on this page will be updated when we do. Continued use of the app after changes means you accept the updated policy, unless applicable law requires otherwise.
+We may update this policy from time to time. The **Last updated** date at the top of this page will change when we do. Continued use of the app after changes means you accept the updated policy, unless applicable law requires otherwise.
+
+Related: [Terms of Use](terms-of-use.md)
